@@ -216,3 +216,6 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# WiFi monitor runtime data (SQLite DB + logs)
+/data/
